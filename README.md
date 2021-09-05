@@ -1,2 +1,2 @@
 # Hello-world
-Just trying to make it
+Graphics designer and web developer frontend based, currently working on java and python.
